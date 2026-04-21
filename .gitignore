@@ -1,4 +1,3 @@
-exp/checkpoint/Res18_lr1_sgd_batch128.pth
-exp/checkpoint/vgg_lr1_sgd_batch128.pth
+exp/checkpoint/
 .cursor
 .vscode
